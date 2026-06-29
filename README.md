@@ -120,9 +120,4 @@ El video puede encontrarse en la carpeta:
 Video DEMO/
 ```
 
-Archivo:
-
-```
-Video_Demo_OutdoorApp.mp4
-```
 
