@@ -117,7 +117,7 @@ El presente repositorio incluye un video donde se muestra el funcionamiento comp
 El video puede encontrarse en la carpeta:
 
 ```
-Video/
+Video DEMO/
 ```
 
 Archivo:
