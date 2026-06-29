@@ -1,0 +1,96 @@
+.editar-perfil{
+
+    background:#EDF5ED;
+
+    min-height:100vh;
+
+    max-width:900px;
+
+    margin:auto;
+
+    padding:25px;
+
+    padding-bottom:90px;
+
+}
+
+.editar-perfil h1{
+
+    color:#2E7D32;
+
+    margin-bottom:25px;
+
+}
+
+.formulario{
+
+    background:white;
+
+    padding:25px;
+
+    border-radius:20px;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.10);
+
+}
+
+.formulario label{
+
+    display:block;
+
+    margin-top:18px;
+
+    margin-bottom:8px;
+
+    font-weight:bold;
+
+    color:#2E7D32;
+
+}
+
+.formulario input,
+.formulario select{
+
+    width:100%;
+
+    padding:14px;
+
+    border-radius:10px;
+
+    border:1px solid #CCC;
+
+    font-size:16px;
+
+    box-sizing:border-box;
+
+}
+
+.formulario button{
+
+    width:100%;
+
+    margin-top:30px;
+
+    padding:15px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:#2E7D32;
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.formulario button:hover{
+
+    background:#1B5E20;
+
+}

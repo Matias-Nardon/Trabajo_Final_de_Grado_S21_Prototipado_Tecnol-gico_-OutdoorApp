@@ -1,0 +1,95 @@
+.mapa{
+
+    background:#EDF5ED;
+
+    min-height:100vh;
+
+    max-width:900px;
+
+    margin:auto;
+
+    padding:25px;
+
+    padding-bottom:90px;
+
+}
+
+.mapa h1{
+
+    color:#2E7D32;
+
+}
+
+.descripcion{
+
+    color:#666;
+
+    margin-bottom:25px;
+
+}
+
+.datos{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    gap:15px;
+
+    margin-bottom:25px;
+
+}
+
+.datos div{
+
+    flex:1;
+
+    background:white;
+
+    padding:18px;
+
+    border-radius:18px;
+
+    text-align:center;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.10);
+
+    transition:.3s;
+
+}
+
+.datos div:hover{
+
+    transform:translateY(-4px);
+
+}
+
+.datos strong{
+
+    display:block;
+
+    color:#2E7D32;
+
+    font-size:20px;
+
+}
+
+.datos span{
+
+    color:#666;
+
+}
+
+iframe{
+
+    width:100%;
+
+    height:450px;
+
+    border:none;
+
+    border-radius:20px;
+
+    box-shadow:0 12px 25px rgba(0,0,0,.15);
+
+}

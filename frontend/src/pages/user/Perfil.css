@@ -1,0 +1,249 @@
+.perfil{
+
+    background:#EDF5ED;
+
+    min-height:100vh;
+
+    max-width:900px;
+
+    margin:auto;
+
+    padding:25px;
+
+    padding-bottom:90px;
+
+}
+
+.perfil-card{
+
+    background:white;
+
+    border-radius:25px;
+
+    padding:30px;
+
+    text-align:center;
+
+    box-shadow:0 12px 25px rgba(0,0,0,.12);
+
+    transition:.3s;
+
+}
+
+.perfil-card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 18px 35px rgba(0,0,0,.18);
+
+}
+
+.avatar{
+
+    width:170px;
+
+    height:170px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    border:6px solid #2E7D32;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.20);
+
+    transition:.3s;
+
+}
+
+.avatar:hover{
+
+    transform:scale(1.05);
+
+}
+
+.perfil-card h1{
+
+    margin-top:20px;
+
+    color:#2E7D32;
+
+}
+
+.nivel{
+
+    color:#2E7D32;
+
+    font-weight:bold;
+
+    font-size:18px;
+
+    margin:10px 0;
+
+}
+
+.descripcion{
+
+    color:#666;
+
+    line-height:25px;
+
+}
+
+.estadisticas{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    gap:15px;
+
+    margin:30px 0;
+
+}
+
+.stat{
+
+    flex:1;
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:20px;
+
+    text-align:center;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.10);
+
+    transition:.3s;
+
+}
+
+.stat:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 18px 35px rgba(0,0,0,.16);
+
+}
+
+.stat h2{
+
+    margin:0;
+
+    color:#2E7D32;
+
+    font-size:28px;
+
+}
+
+.stat span{
+
+    color:#666;
+
+    font-size:14px;
+
+}
+
+.preferencias{
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:25px;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.10);
+
+    margin-bottom:25px;
+
+    transition:.3s;
+
+}
+
+.preferencias:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 18px 35px rgba(0,0,0,.16);
+
+}
+
+.preferencias h2{
+
+    color:#2E7D32;
+
+    margin-top:0;
+
+}
+
+.preferencias p{
+
+    margin:12px 0;
+
+    color:#555;
+
+    font-size:16px;
+
+}
+
+.editar{
+
+    width:100%;
+
+    background:#2E7D32;
+
+    color:white;
+
+    border:none;
+
+    padding:16px;
+
+    border-radius:12px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.editar:hover{
+
+    background:#1B5E20;
+
+    transform:translateY(-2px);
+
+}
+
+.cerrar{
+
+    width:100%;
+
+    margin-top:15px;
+
+    background:#D32F2F;
+
+    color:white;
+
+    border:none;
+
+    padding:16px;
+
+    border-radius:12px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.cerrar:hover{
+
+    background:#B71C1C;
+
+}
