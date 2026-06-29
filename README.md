@@ -109,3 +109,20 @@ Observación importante
 El presente repositorio acompaña la entrega del Trabajo Final de Grado y tiene como finalidad proporcionar acceso al código fuente desarrollado.
 
 Debe tenerse en cuenta que la ejecución del sistema requiere la instalación previa de diversas herramientas de desarrollo, dependencias de frontend y backend, así como la configuración del entorno de trabajo.
+
+## Video demostrativo (DEMO)
+
+El presente repositorio incluye un video donde se muestra el funcionamiento completo del prototipo desarrollado.
+
+El video puede encontrarse en la carpeta:
+
+```
+Video/
+```
+
+Archivo:
+
+```
+Video_Demo_OutdoorApp.mp4
+```
+
